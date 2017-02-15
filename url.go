@@ -1,6 +1,5 @@
+// Package urlutil resolves relative uritemplate references.
 package urlutil
-
-// resolve relative uritemplate references.
 
 import (
 	"net/url"
